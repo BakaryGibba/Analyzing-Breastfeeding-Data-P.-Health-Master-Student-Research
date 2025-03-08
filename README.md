@@ -126,7 +126,8 @@ jupyter notebook notebooks/breastfeeding_analysis.ipynb
 ---
 
 ## Contributors
-- [Bakary](https://github.com/your-username)  
+- [Bakary](https://github.com/BakaryGibba)  
+
 
 ---
 
