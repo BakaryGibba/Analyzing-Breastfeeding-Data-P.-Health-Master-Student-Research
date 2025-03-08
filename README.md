@@ -126,8 +126,7 @@ jupyter notebook notebooks/breastfeeding_analysis.ipynb
 ---
 
 ## Contributors
-- [Your Name](https://github.com/your-username)  
-  *Public Health Masters Student, [Your University]*
+- [Bakary](https://github.com/your-username)  
 
 ---
 
@@ -136,4 +135,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-This README is designed to align with academic and public health research standards. Let me know if you’d like to add or modify anything!
